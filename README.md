@@ -1,0 +1,2 @@
+# naming
+ip addr
